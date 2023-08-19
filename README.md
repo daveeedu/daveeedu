@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveeedu&label=Profile%20views&color=0e75b6&style=flat" alt="daveeedu" /> </p>
 
-- 🔭 I’m currently working on [Personal Profile portfolio](https://github.com/daveeedu/Kunle_Lawal)
+- 🔭 I’m currently working on [Personal Profile portfolio]()
 
 - 🌱 I’m currently learning **React Native**
 
