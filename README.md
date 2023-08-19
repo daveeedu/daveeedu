@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Personal Profile portfolio](https://github.com/daveeedu/Kunle_Lawal)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/daveeedu](https://github.com/daveeedu)
 
